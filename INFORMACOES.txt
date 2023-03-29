@@ -1,0 +1,7 @@
+https://app.algaworks.com/forum/topicos/83278/consumindo-um-web-service-soap
+
+Producing a SOAP web service
+https://spring.io/guides/gs/producing-web-service/
+
+Consuming a SOAP web service
+https://spring.io/guides/gs/consuming-web-service/
